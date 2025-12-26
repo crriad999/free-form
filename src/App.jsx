@@ -6,7 +6,7 @@ function App() {
   return (
     <>
      <h1 className="text-red-700">we are {a} Hadi</h1>
-     <p>GRAND OPENING {c}</p>
+     <p className="text-red-500">GRAND OPENING {c}</p>
     </>
   )
 }
